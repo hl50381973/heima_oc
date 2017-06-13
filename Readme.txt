@@ -1,116 +1,84 @@
-©À©¤ÄÚ´æ¹ÜÀí
-©¦  ©À©¤02-ÒıÓÃ¼ÆÊı
-©¦  ©À©¤03-¶à¸ö¶ÔÏóµÄÄÚ´æ¹ÜÀí
-©¦  ©À©¤04-@propertyµÄÊ¹ÓÃ
-©¦  ©À©¤05-ÌÔ±¦
-©¦  ©À©¤06-Ñ­»·ÒıÓÃ
-©¦  ©À©¤07-×Ô¶¯ÊÍ·Å³Ø
-©¦  ©À©¤08-ARC
-©¦  ©À©¤09-ARCÖĞ@property
-©¦  ©À©¤10-ARCÖĞ×Ô¶¯ÊÍ·Å³Ø
-©¦  ©À©¤11-ÃæÊÔÌâ
-©¦  ©À©¤1201-ÄÚ´æ¹ÜÀí
-©¦  ©¸©¤1201-ÄÚ´æ¹ÜÀí.xcodeproj
-©¦      ©À©¤project.xcworkspace
-©¦      ©¦  ©¸©¤xcuserdata
-©¦      ©¦      ©À©¤apple.xcuserdatad
-©¦      ©¦      ©¸©¤Lbuliuming.xcuserdatad
-©¦      ©¸©¤xcuserdata
-©¦          ©À©¤apple.xcuserdatad
-©¦          ©¦  ©À©¤xcdebugger
-©¦          ©¦  ©¸©¤xcschemes
-©¦          ©¸©¤Lbuliuming.xcuserdatad
-©¦              ©¸©¤xcschemes
-©À©¤·ÖÀà
-©¦  ©À©¤02-ÀàÀ©Õ¹
-©¦  ©À©¤03-MRC×ªARC
-©¦  ©À©¤04-SEL
-©¦  ©À©¤05-block
-©¦  ©À©¤06-Ğ­Òé
-©¦  ©À©¤07-delegateÉè¼ÆÄ£Ê½
-©¦  ©À©¤08-ÖØ¹¹
-©¦  ©À©¤1202-·ÖÀà
-©¦  ©¸©¤1202-·ÖÀà.xcodeproj
-©¦      ©À©¤project.xcworkspace
-©¦      ©¦  ©¸©¤xcuserdata
-©¦      ©¦      ©À©¤apple.xcuserdatad
-©¦      ©¦      ©¸©¤Lbuliuming.xcuserdatad
-©¦      ©¸©¤xcuserdata
-©¦          ©À©¤apple.xcuserdatad
-©¦          ©¦  ©À©¤xcdebugger
-©¦          ©¦  ©¸©¤xcschemes
-©¦          ©¸©¤Lbuliuming.xcuserdatad
-©¦              ©¸©¤xcschemes
-©À©¤×Ö·û´®
-©¦  ©À©¤02-¿É±ä×Ö·û´®
-©¦  ©À©¤04-NSMutableArray
-©¦  ©À©¤1204-×Ö·û´®
-©¦  ©À©¤1204-×Ö·û´®.xcodeproj
-©¦  ©¦  ©À©¤project.xcworkspace
-©¦  ©¦  ©¦  ©¸©¤xcuserdata
-©¦  ©¦  ©¦      ©À©¤apple.xcuserdatad
-©¦  ©¦  ©¦      ©¸©¤Lbuliuming.xcuserdatad
-©¦  ©¦  ©¸©¤xcuserdata
-©¦  ©¦      ©À©¤apple.xcuserdatad
-©¦  ©¦      ©¦  ©À©¤xcdebugger
-©¦  ©¦      ©¦  ©¸©¤xcschemes
-©¦  ©¦      ©¸©¤Lbuliuming.xcuserdatad
-©¦  ©¦          ©¸©¤xcschemes
-©¦  ©¸©¤NSArray
-©¸©¤¼¯ºÏ
-    ©À©¤02-NSMutableDictionary
-    ©À©¤03-NSSet
-    ©À©¤04-¼¯ºÏÖĞµÄÄÚ´æ¹ÜÀí
-    ©À©¤05-³£ÓÃµÄ½á¹¹Ìå
-    ©À©¤06-»ù±¾Êı¾İÀàĞÍµÄ°ü×°ÀàNSNumber
-    ©À©¤07-½á¹¹Ìå×ª°ü×°ÀàĞÍNSValue
-    ©À©¤08-NSDate
-    ©À©¤09-NSFileManagerÎÄ¼ş¹ÜÀíÆ÷
-    ©À©¤10-NSData
-    ©À©¤11-NSObject
-    ©À©¤12-¸´ÖÆ
-    ©À©¤1205-¼¯ºÏ
-    ©À©¤1205-¼¯ºÏ.xcodeproj
-    ©¦  ©À©¤project.xcworkspace
-    ©¦  ©¦  ©¸©¤xcuserdata
-    ©¦  ©¦      ©À©¤apple.xcuserdatad
-    ©¦  ©¦      ©¸©¤Lbuliuming.xcuserdatad
-    ©¦  ©¸©¤xcuserdata
-    ©¦      ©À©¤apple.xcuserdatad
-    ©¦      ©¦  ©À©¤xcdebugger
-    ©¦      ©¦  ©¸©¤xcschemes
-    ©¦      ©¸©¤Lbuliuming.xcuserdatad
-    ©¦          ©¸©¤xcschemes
-    ©¸©¤13-¸´ÖÆÓëÒıÓÃ¼ÆÊı
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+â”œâ”€å†…å­˜ç®¡ç†
+â”‚  â”œâ”€02-å¼•ç”¨è®¡æ•°
+â”‚  â”œâ”€03-å¤šä¸ªå¯¹è±¡çš„å†…å­˜ç®¡ç†
+â”‚  â”œâ”€04-@propertyçš„ä½¿ç”¨
+â”‚  â”œâ”€05-æ·˜å®
+â”‚  â”œâ”€06-å¾ªç¯å¼•ç”¨
+â”‚  â”œâ”€07-è‡ªåŠ¨é‡Šæ”¾æ± 
+â”‚  â”œâ”€08-ARC
+â”‚  â”œâ”€09-ARCä¸­@property
+â”‚  â”œâ”€10-ARCä¸­è‡ªåŠ¨é‡Šæ”¾æ± 
+â”‚  â”œâ”€11-é¢è¯•é¢˜
+â”‚  â”œâ”€1201-å†…å­˜ç®¡ç†
+â”‚  â””â”€1201-å†…å­˜ç®¡ç†.xcodeproj
+â”‚      â”œâ”€project.xcworkspace
+â”‚      â”‚  â””â”€xcuserdata
+â”‚      â”‚      â”œâ”€apple.xcuserdatad
+â”‚      â”‚      â””â”€Lbuliuming.xcuserdatad
+â”‚      â””â”€xcuserdata
+â”‚          â”œâ”€apple.xcuserdatad
+â”‚          â”‚  â”œâ”€xcdebugger
+â”‚          â”‚  â””â”€xcschemes
+â”‚          â””â”€Lbuliuming.xcuserdatad
+â”‚              â””â”€xcschemes
+â”œâ”€åˆ†ç±»
+â”‚  â”œâ”€02-ç±»æ‰©å±•
+â”‚  â”œâ”€03-MRCè½¬ARC
+â”‚  â”œâ”€04-SEL
+â”‚  â”œâ”€05-block
+â”‚  â”œâ”€06-åè®®
+â”‚  â”œâ”€07-delegateè®¾è®¡æ¨¡å¼
+â”‚  â”œâ”€08-é‡æ„
+â”‚  â”œâ”€1202-åˆ†ç±»
+â”‚  â””â”€1202-åˆ†ç±».xcodeproj
+â”‚      â”œâ”€project.xcworkspace
+â”‚      â”‚  â””â”€xcuserdata
+â”‚      â”‚      â”œâ”€apple.xcuserdatad
+â”‚      â”‚      â””â”€Lbuliuming.xcuserdatad
+â”‚      â””â”€xcuserdata
+â”‚          â”œâ”€apple.xcuserdatad
+â”‚          â”‚  â”œâ”€xcdebugger
+â”‚          â”‚  â””â”€xcschemes
+â”‚          â””â”€Lbuliuming.xcuserdatad
+â”‚              â””â”€xcschemes
+â”œâ”€å­—ç¬¦ä¸²
+â”‚  â”œâ”€02-å¯å˜å­—ç¬¦ä¸²
+â”‚  â”œâ”€04-NSMutableArray
+â”‚  â”œâ”€1204-å­—ç¬¦ä¸²
+â”‚  â”œâ”€1204-å­—ç¬¦ä¸².xcodeproj
+â”‚  â”‚  â”œâ”€project.xcworkspace
+â”‚  â”‚  â”‚  â””â”€xcuserdata
+â”‚  â”‚  â”‚      â”œâ”€apple.xcuserdatad
+â”‚  â”‚  â”‚      â””â”€Lbuliuming.xcuserdatad
+â”‚  â”‚  â””â”€xcuserdata
+â”‚  â”‚      â”œâ”€apple.xcuserdatad
+â”‚  â”‚      â”‚  â”œâ”€xcdebugger
+â”‚  â”‚      â”‚  â””â”€xcschemes
+â”‚  â”‚      â””â”€Lbuliuming.xcuserdatad
+â”‚  â”‚          â””â”€xcschemes
+â”‚  â””â”€NSArray
+â””â”€é›†åˆ
+    â”œâ”€02-NSMutableDictionary
+    â”œâ”€03-NSSet
+    â”œâ”€04-é›†åˆä¸­çš„å†…å­˜ç®¡ç†
+    â”œâ”€05-å¸¸ç”¨çš„ç»“æ„ä½“
+    â”œâ”€06-åŸºæœ¬æ•°æ®ç±»å‹çš„åŒ…è£…ç±»NSNumber
+    â”œâ”€07-ç»“æ„ä½“è½¬åŒ…è£…ç±»å‹NSValue
+    â”œâ”€08-NSDate
+    â”œâ”€09-NSFileManageræ–‡ä»¶ç®¡ç†å™¨
+    â”œâ”€10-NSData
+    â”œâ”€11-NSObject
+    â”œâ”€12-å¤åˆ¶
+    â”œâ”€1205-é›†åˆ
+    â”œâ”€1205-é›†åˆ.xcodeproj
+    â”‚  â”œâ”€project.xcworkspace
+    â”‚  â”‚  â””â”€xcuserdata
+    â”‚  â”‚      â”œâ”€apple.xcuserdatad
+    â”‚  â”‚      â””â”€Lbuliuming.xcuserdatad
+    â”‚  â””â”€xcuserdata
+    â”‚      â”œâ”€apple.xcuserdatad
+    â”‚      â”‚  â”œâ”€xcdebugger
+    â”‚      â”‚  â””â”€xcschemes
+    â”‚      â””â”€Lbuliuming.xcuserdatad
+    â”‚          â””â”€xcschemes
+    â””â”€13-å¤åˆ¶ä¸å¼•ç”¨è®¡æ•°
